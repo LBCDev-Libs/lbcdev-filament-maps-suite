@@ -511,11 +511,11 @@ lbcdev-filament-maps-suite/
 
 ### VS Code Workspace
 
-[Ver en github](https://github.com/Luinux81/lbcdev-filament-maps-suite/blob/main/lbcdev-maps-suite.code-workspace)
+[Ver en github](https://github.com/LBCDev-Libs/lbcdev-filament-maps-suite/blob/main/lbcdev-maps-suite.code-workspace)
 
 ### DevContainer Configuration
 
-[Ver en github](https://github.com/Luinux81/lbcdev-filament-maps-suite/tree/main/.devcontainer)
+[Ver en github](https://github.com/LBCDev-Libs/lbcdev-filament-maps-suite/tree/main/.devcontainer)
 
 ### Organización de Repositorios
 
@@ -1115,10 +1115,10 @@ docs.lbcdev-maps.com/
 ```
 lbcdev-filament-maps-suite/          # Repo principal
 ├── packages/
-│   ├── core/         → submodule → github.com/Luinux81/livewire-maps-core
-│   ├── geometries/   → submodule → github.com/Luinux81/map-geometries
-│   ├── fields/       → submodule → github.com/Luinux81/filament-maps-fields
-│   └── widgets/      → submodule → github.com/Luinux81/filament-maps-widgets
+│   ├── core/         → submodule → github.com/LBCDev-Libs/livewire-maps-core
+│   ├── geometries/   → submodule → github.com/LBCDev-Libs/map-geometries
+│   ├── fields/       → submodule → github.com/LBCDev-Libs/filament-maps-fields
+│   └── widgets/      → submodule → github.com/LBCDev-Libs/filament-maps-widgets
 └── composer.json     # Meta-package que instala todo
 ```
 
