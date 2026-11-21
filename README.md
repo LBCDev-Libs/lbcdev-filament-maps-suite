@@ -24,7 +24,7 @@ This is a **monorepo** that contains multiple packages:
 
 ```bash
 # Clone with submodules
-git clone --recursive https://github.com/Luinux81/lbcdev-filament-maps-suite.git
+git clone --recursive https://github.com/LBCDev-Libs/lbcdev-filament-maps-suite.git
 
 # Or if already cloned
 git submodule update --init --recursive

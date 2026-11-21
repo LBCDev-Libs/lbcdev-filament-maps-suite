@@ -133,10 +133,10 @@ lbcdev-filament-maps-suite/
 │   └── launch.json                # Debug config
 │
 ├── packages/                      # ← GIT SUBMODULES
-│   ├── core/                      # → github.com/Luinux81/livewire-maps-core
-│   ├── geometries/                # → github.com/Luinux81/map-geometries
-│   ├── fields/                    # → github.com/Luinux81/filament-maps-fields
-│   └── widgets/                   # → github.com/Luinux81/filament-maps-widgets
+│   ├── core/                      # → github.com/LBCDev-Libs/livewire-maps-core
+│   ├── geometries/                # → github.com/LBCDev-Libs/map-geometries
+│   ├── fields/                    # → github.com/LBCDev-Libs/filament-maps-fields
+│   └── widgets/                   # → github.com/LBCDev-Libs/filament-maps-widgets
 │
 ├── docs/                          # Documentación unificada (VitePress)
 │   ├── .vitepress/
@@ -199,8 +199,8 @@ A continuación se detallan los archivos de configuración principales y sus res
 
 | Componente | Descripción | Enlace al Archivo |
 | --- | --- | --- |
-| **composer.json** | Definición del Meta-package y dependencias. | [Ver en Github](https://www.google.com/search?q=%5Bhttps://github.com/Luinux81/lbcdev-filament-maps-suite/blob/main/composer.json%5D(https://github.com/Luinux81/lbcdev-filament-maps-suite/blob/main/composer.json)) |
-| **Git Submodules** | Configuración de los submódulos del repositorio. | [Ver en Github](https://www.google.com/search?q=%5Bhttps://github.com/Luinux81/lbcdev-filament-maps-suite/blob/main/.gitmodules%5D(https://github.com/Luinux81/lbcdev-filament-maps-suite/blob/main/.gitmodules)) |
+| **composer.json** | Definición del Meta-package y dependencias. | [Ver en Github](https://www.google.com/search?q=%5Bhttps://github.com/LBCDev-Libs/lbcdev-filament-maps-suite/blob/main/composer.json%5D(https://github.com/LBCDev-Libs/lbcdev-filament-maps-suite/blob/main/composer.json)) |
+| **Git Submodules** | Configuración de los submódulos del repositorio. | [Ver en Github](https://www.google.com/search?q=%5Bhttps://github.com/LBCDev-Libs/lbcdev-filament-maps-suite/blob/main/.gitmodules%5D(https://github.com/LBCDev-Libs/lbcdev-filament-maps-suite/blob/main/.gitmodules)) |
 
 ---
 
@@ -208,11 +208,11 @@ A continuación se detallan los archivos de configuración principales y sus res
 
 #### **VS Code Workspace**
 
-Configuración personalizada para el espacio de trabajo en VS Code, optimizando la gestión del monorepo. 💡 [Ver en Github](https://github.com/Luinux81/lbcdev-filament-maps-suite/blob/main/lbcdev-maps-suite.code-workspace)
+Configuración personalizada para el espacio de trabajo en VS Code, optimizando la gestión del monorepo. 💡 [Ver en Github](https://github.com/LBCDev-Libs/lbcdev-filament-maps-suite/blob/main/lbcdev-maps-suite.code-workspace)
 
 #### **DevContainer Configuration**
 
-Entorno de desarrollo contenedorizado para garantizar que todos los colaboradores tengan las mismas dependencias (PHP, Extensiones, etc.). 💡 [Ver en Github](https://github.com/Luinux81/lbcdev-filament-maps-suite/tree/main/.devcontainer)
+Entorno de desarrollo contenedorizado para garantizar que todos los colaboradores tengan las mismas dependencias (PHP, Extensiones, etc.). 💡 [Ver en Github](https://github.com/LBCDev-Libs/lbcdev-filament-maps-suite/tree/main/.devcontainer)
 
 ---
 
