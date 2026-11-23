@@ -120,6 +120,7 @@ git commit -m "chore: update core to feature branch"
 - [Architecture Overview](docs/architecture.md)
 - [Contributing Guide](CONTRIBUTING.md)
 - [API Reference](docs/api/)
+- [DeepWiki — browsable codebase documentation](https://deepwiki.com/Luinux81/lbcdev-filament-maps-suite)
 
 ## 🧪 Testing
 
